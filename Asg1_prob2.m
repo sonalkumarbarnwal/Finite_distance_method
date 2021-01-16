@@ -1,7 +1,8 @@
 %% This is a sample program for EE 735 students by P.R. Nair, EE, IITB. 
 %% Here we attempt to solve a second order differential equation 
 %% using finite difference method
-
+% 
+%%
 % The equation being solved is d^2V/dx^2=0 with boundary conditions V(0)=0
 % and V(L)=1; Note that equations are explicitly written for the boundary
 % nodes. So there are N equations. Else, one could solve by
